@@ -1,0 +1,5 @@
+;ADD
+
+MOV AX, 17h
+MOV BX, 20h
+ADD AX,BX
